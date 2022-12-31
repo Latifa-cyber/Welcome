@@ -38,7 +38,7 @@ class WelcomePage3 extends StatelessWidget {
                 child: Text(
                   "Let's Get Started!",style:TextStyle(
                   fontFamily: 'MontaguSlab',
-                  fontSize: 29,
+                  fontSize: 31,
                   fontWeight: FontWeight.w700,
                   color: Color(0xFFEBEBEB),
                 ),
