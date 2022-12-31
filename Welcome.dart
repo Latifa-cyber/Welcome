@@ -71,7 +71,7 @@ class _WelcomeState extends State<Welcome> {
                         },
                         child: Text('Start', style: TextStyle(
                           fontFamily: 'MontaguSlab',
-                          fontSize: 20,
+                          fontSize: 17,
                           fontWeight: FontWeight.w600,
                           color: Color(0xFFFFC727),
                         ),
